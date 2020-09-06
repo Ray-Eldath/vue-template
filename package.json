@@ -11,14 +11,14 @@
         "dev": "parcel serve index.html"
     },
     "dependencies": {
-        "vue": "^2.6.11",
+        "vue": "^2.6.12",
         "vue-hot-reload-api": "^2.3.4",
-        "vue-router": "^3.3.2"
+        "vue-router": "^3.4.3"
     },
     "devDependencies": {
-        "@vue/component-compiler-utils": "^3.1.2",
+        "@vue/component-compiler-utils": "^3.2.0",
         "cssnano": "^4.1.10",
-        "sass": "^1.26.7",
-        "vue-template-compiler": "^2.6.11"
+        "sass": "^1.26.10",
+        "vue-template-compiler": "^2.6.12"
     }
 }
