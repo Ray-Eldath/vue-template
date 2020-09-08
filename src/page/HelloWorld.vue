@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import Name from "../componment/Name";
+import Name from "../component/Name";
 
 export default {
     data() {
